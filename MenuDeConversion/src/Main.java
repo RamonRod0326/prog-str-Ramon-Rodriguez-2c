@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Main {
@@ -34,7 +35,8 @@ public class Main {
                     convertirMillasAKm();
                     mAK++;
                 }
-                case 5 -> System.out.println("Saliendo del programa...");
+                case 5 ->
+                    System.out.println("Saliendo del programa...");
             }
 
             System.out.println();
