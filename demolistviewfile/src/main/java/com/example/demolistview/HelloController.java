@@ -1,4 +1,4 @@
-package com.example.demolistviewfile;
+package com.example.demolistview;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
